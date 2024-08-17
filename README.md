@@ -1,6 +1,6 @@
 ## Cálculo da frequência
 
-`$f_n = f_0 * (a)^n$`
+$`f_n = f_0 * (a)^n`$
 
 Em que:
 
