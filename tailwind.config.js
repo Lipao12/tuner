@@ -5,6 +5,9 @@ export default {
   ],
   theme: {
     extend: {
+      colors:{
+      "bg-dark": "#242933",
+    }
     },
   },
   plugins: [],
